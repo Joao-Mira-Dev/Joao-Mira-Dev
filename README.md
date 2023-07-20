@@ -8,8 +8,6 @@
 
 - 🤝 Busco oportunidades para colaborar em projetos desafiadores e contribuir com minha paixão pela programação.
 
-- Vamos juntos construir o futuro através da tecnologia! 🚀💻
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Ruby" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
