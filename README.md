@@ -6,8 +6,6 @@
 
 📚 Possuo formação técnica em Desenvolvimento de Sistemas, o que me proporcionou uma base sólida em programação e lógica. Além disso, estou atualmente cursando Tecnólogo em Desenvolvimento de Software Multiplataforma, buscando aprofundar meus conhecimentos e expandir meu horizonte no universo da criação de aplicativos e sistemas.
 
-🏅 Em 2018, tive a honra de conquistar a medalha de Ouro no OBA (Olimpíada Brasileira de Astronomia), um marco que demonstra minha perseverança e dedicação na superação de desafios.
-
 🚀 Através deste repositório no GitHub, pretendo compartilhar meus avanços e aprendizados na área de Desenvolvimento de Software. Aqui você encontrará projetos inovadores, ideias criativas e soluções inteligentes que demonstrem minha paixão pela programação.
 
 🤝 Se você busca um profissional empenhado, com sede por conhecimento e um olhar atento para a qualidade do código, fico grato pela oportunidade de colaborar em projetos desafiadores e contribuir para o sucesso da sua equipe.
